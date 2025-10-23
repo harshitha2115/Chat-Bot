@@ -1,0 +1,7 @@
+{
+  "name": "Intelli Chat Bot",
+  "description": "An intelligent chatbot application that allows users to interact with Gemini through text or real-time voice conversations using the Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
